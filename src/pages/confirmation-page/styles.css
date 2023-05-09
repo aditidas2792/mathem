@@ -1,0 +1,39 @@
+.confirmation-page {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+  }
+  
+  .confirmation-message {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-item {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .edit-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .edit-button:hover {
+    background-color: #0062cc;
+  }
+  

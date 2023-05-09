@@ -1,0 +1,45 @@
+.date-list {
+    margin-bottom: 20px;
+  }
+  
+  .date-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .date-select {
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-shadow: none;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .date-select:focus {
+    border-color: #007bff;
+    box-shadow: 0px 0px 4px rgba(0, 123, 255, 0.4);
+  }
+  
+  .time-list {
+    margin: 20px 0;
+  }
+  
+  .time-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .time-dropdown {
+    font-size: 16px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .in-home-delivery-text {
+    font-size: 14px;
+    color: green;
+    margin-top: 10px;
+  }
+  
